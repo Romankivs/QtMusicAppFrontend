@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>QtWidgetsTestAuth</DisplayName>
+    <Description>Sample Qt application with widgets and tests</Description>
+    <Version>0.1</Version>
+    <ReleaseDate>2024-11-14</ReleaseDate>
+    <Default>true</Default>
+</Package>

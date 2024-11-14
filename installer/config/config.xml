@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>Music App</Name>
+    <Version>0.1</Version>
+    <Title>Music App Installer</Title>
+    <Publisher>My Company</Publisher>
+    <StartMenuDir>Music App</StartMenuDir>
+    <TargetDir>@HomeDir@/MusicApp</TargetDir>
+</Installer>
+
